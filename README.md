@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Deku-2k
 
-🔐 I’m a cybersecurity-focused IT professional with a strong foundation in internal support, server management, and automation. My primary goal is to transition fully into a Cybersecurity Engineer role while continuing to build skills in DevOps and cloud infrastructure.
+I’m a cybersecurity-focused IT professional with a strong foundation in internal support, server management, and automation. My primary goal is to transition fully into a Cybersecurity Engineer role while continuing to build skills in DevOps and cloud infrastructure.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Cybersecurity frameworks like **MITRE ATT&CK**, **NIST CSF**, **Cloud Security Matrix**, and **CIS Critical Security Controls**.
 - Compliance and privacy standards including **PCI DSS**, **SOX**, **HIPAA**, **GDPR**, and **CCPA**.
@@ -26,14 +26,14 @@
 
 ---
 
-## 🛡️ Certifications
+## Certifications
 
 - **Google Cybersecurity Professional Certificate (v2)**
 - **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)**
 
 ---
 
-## 💼 Experience Snapshot
+## Experience Snapshot
 
 - Several years of experience managing **Windows hybrid servers** and **internal IT support**.
 - Skilled at **developing and documenting security guidelines** aligned with business needs.
@@ -41,7 +41,7 @@
 
 ---
 
-## 💞️ Looking to Collaborate
+## Looking to Collaborate
 
 I’m open to contributing to or learning from projects focused on:
 
@@ -52,7 +52,7 @@ I’m open to contributing to or learning from projects focused on:
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 
 📧 Email: [az-800cert@outlook.com](mailto:az-800cert@outlook.com)
 
@@ -60,7 +60,7 @@ I’m open to contributing to or learning from projects focused on:
 
 ## ⚡ Fun Fact
 
-I've been managing on-prem and cloud-connected servers for years—and I'm passionate about automating systems to improve **security**, **efficiency**, and **scalability**.
+I'm passionate about automating systems to improve **security**, **efficiency**, and **scalability**.
 
 <!---
 Deku-2k/Deku-2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
