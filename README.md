@@ -4,7 +4,7 @@ I’m a cybersecurity-focused IT professional with a strong foundation in intern
 
 ---
 
-## 👀 Interests
+## Interests
 
 - **Cybersecurity Engineering**  
   Passionate about end-user and workstation security, as well as securing Microsoft 365, Azure, and hybrid corporate networks.
