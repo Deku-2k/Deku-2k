@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Deku-2k
+# 👋 Hi, I’m Gennaro @Deku-2k
 
 I’m a cybersecurity-focused IT professional with a strong foundation in internal support, server management, and automation. My primary goal is to transition fully into a Cybersecurity Engineer role while continuing to build skills in DevOps and cloud infrastructure.
 
